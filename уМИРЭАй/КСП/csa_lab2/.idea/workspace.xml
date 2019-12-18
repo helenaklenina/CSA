@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e23fdf-7431-4a10-968f-31e88b0d0287" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RcBetDMeR1TL7T871HnYqAJ0G3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo_project_spring/demo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="csa_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packet.Server" />
+      <module name="csa_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.3432658" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e23fdf-7431-4a10-968f-31e88b0d0287" name="Default Changelist" comment="" />
+      <created>1569956603428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569956603428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="64" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1573583908486">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="64" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1573583908486" />
+    <state x="1035" y="332" width="603" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569985816493">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1035" y="332" width="603" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1569985816493" />
+    <state x="1192" y="288" width="424" height="491" key="FileChooserDialogImpl" timestamp="1574844730455">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="1192" y="288" width="424" height="491" key="FileChooserDialogImpl/64.27.1856.1053@64.27.1856.1053" timestamp="1574844730455" />
+    <state width="905" height="335" key="GridCell.Tab.0.bottom" timestamp="1574844732762">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1569957137219" />
+    <state width="905" height="335" key="GridCell.Tab.0.bottom/64.27.1856.1053@64.27.1856.1053" timestamp="1574844732762" />
+    <state width="905" height="335" key="GridCell.Tab.0.center" timestamp="1574844732761">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1569957137219" />
+    <state width="905" height="335" key="GridCell.Tab.0.center/64.27.1856.1053@64.27.1856.1053" timestamp="1574844732761" />
+    <state width="905" height="335" key="GridCell.Tab.0.left" timestamp="1574844732760">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1569957137219" />
+    <state width="905" height="335" key="GridCell.Tab.0.left/64.27.1856.1053@64.27.1856.1053" timestamp="1574844732760" />
+    <state width="905" height="335" key="GridCell.Tab.0.right" timestamp="1574844732762">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1569957137219" />
+    <state width="905" height="335" key="GridCell.Tab.0.right/64.27.1856.1053@64.27.1856.1053" timestamp="1574844732762" />
+    <state x="394" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1574844308794">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="341" y="131" width="1024" height="852" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1570007291548" />
+    <state x="394" y="131" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1574844308794" />
+    <state x="659" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1574843906370">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1570007090947" />
+    <state x="659" y="380" key="com.intellij.ide.util.TipDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1574843906370" />
+    <state x="525" y="453" width="646" height="231" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1570007237221">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="525" y="453" width="646" height="231" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.1053@0.27.1920.1053" timestamp="1570007237221" />
+    <state x="613" y="155" width="748" height="803" key="new project wizard" timestamp="1573638107897">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="613" y="155" width="748" height="803" key="new project wizard/64.27.1856.1053@64.27.1856.1053" timestamp="1573638107897" />
+  </component>
+</project>

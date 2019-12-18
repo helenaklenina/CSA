@@ -1,4 +1,4 @@
-package lab_1;
+package packet;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
