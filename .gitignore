@@ -1,0 +1,9 @@
+/CSA_lab3/Pipfile
+/CSA_lab3/Pipfile.lock
+/__pycache__
+/.vscode
+*.iml
+.idea/*.xml
+/out
+/target
+
